@@ -1,1 +1,1 @@
-My zero day in software at ALU
+My zero day at ALU in software 
